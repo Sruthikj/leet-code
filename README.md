@@ -13,8 +13,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 <!---LeetCode Topics End-->
