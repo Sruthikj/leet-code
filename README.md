@@ -9,4 +9,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Sruthikj/leet-code/tree/main/0344-reverse-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
