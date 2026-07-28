@@ -12,6 +12,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Simulation
@@ -26,4 +27,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
