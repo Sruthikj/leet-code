@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sruthikj/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sruthikj/leet-code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sruthikj/leet-code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -39,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sruthikj/leet-code/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sruthikj/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
