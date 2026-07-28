@@ -14,11 +14,13 @@
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Sruthikj/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sruthikj/leet-code/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Sruthikj/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
