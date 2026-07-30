@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sruthikj/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sruthikj/leet-code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sruthikj/leet-code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sruthikj/leet-code/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/Sruthikj/leet-code/tree/main/1672-richest-customer-wealth/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
