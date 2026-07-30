@@ -4,6 +4,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Sruthikj/leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Sruthikj/leet-code/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -12,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Sruthikj/leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sruthikj/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
