@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Sruthikj/leet-code/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/Sruthikj/leet-code/tree/main/0709-to-lower-case/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
