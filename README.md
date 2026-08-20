@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sruthikj/leet-code/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sruthikj/leet-code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Sruthikj/leet-code/tree/main/0709-to-lower-case/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sruthikj/leet-code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -60,9 +62,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sruthikj/leet-code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sruthikj/leet-code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
