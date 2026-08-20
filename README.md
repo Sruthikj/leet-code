@@ -9,6 +9,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sruthikj/leet-code/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Sruthikj/leet-code/tree/main/0709-to-lower-case/) | Easy |
 ## Array
@@ -40,6 +41,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
@@ -57,6 +59,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
