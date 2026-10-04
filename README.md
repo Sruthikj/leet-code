@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sruthikj/leet-code/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sruthikj/leet-code/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sruthikj/leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sruthikj/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -49,6 +50,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Sruthikj/leet-code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sruthikj/leet-code/tree/main/0414-third-maximum-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -68,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sruthikj/leet-code/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sruthikj/leet-code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sruthikj/leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sruthikj/leet-code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sruthikj/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
