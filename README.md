@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sruthikj/leet-code/tree/main/0001-two-sum/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sruthikj/leet-code/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/Sruthikj/leet-code/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sruthikj/leet-code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sruthikj/leet-code/tree/main/0268-missing-number/) | Easy |
@@ -43,6 +44,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sruthikj/leet-code/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/Sruthikj/leet-code/tree/main/0268-missing-number/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sruthikj/leet-code/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Counting
